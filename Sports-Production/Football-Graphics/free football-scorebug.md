@@ -1,6 +1,6 @@
 # Football Scorebug Graphics
 
-Professional [football scorebug graphics](https://store.wasp3d.com/football-lower-third.html) designed for live sports production, league coverage, tournament broadcasting, and digital streaming workflows.
+Professional [football scorebug graphics](https://store.wasp3d.com/football-lower-third.html?utm_source=Github&utm_medium=Football+scoreboard) designed for live sports production, league coverage, tournament broadcasting, and digital streaming workflows.
 
 This graphics package demonstrates a production-ready approach to presenting real-time match information, scores, game clocks, team identifiers, and competition branding within a compact scorebug format suitable for modern football broadcasts.
 
