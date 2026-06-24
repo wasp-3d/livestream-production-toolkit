@@ -1,6 +1,6 @@
 # Cricket Scoreboard Lower Third Template
 
-Professional This [cricket scoreboard](https://store.wasp3d.com/cricket-score-lower-third-template.html) template showcases a modular score presentation workflow that can be adapted for: lower third graphics designed for live cricket production, tournament coverage, digital streaming, and broadcast workflows.
+Professional This [cricket scoreboard](https://store.wasp3d.com/cricket-score-lower-third-template.html?utm_source=Github&utm_medium=Cricket+scoreboard) template showcases a modular score presentation workflow that can be adapted for: lower third graphics designed for live cricket production, tournament coverage, digital streaming, and broadcast workflows.
 
 This template demonstrates a production-ready approach to presenting real-time cricket scores, team information, overs, wickets, and match status within a compact lower-third graphics format suitable for modern sports broadcasts.
 
@@ -10,7 +10,7 @@ This template demonstrates a production-ready approach to presenting real-time c
 
 Cricket Score lower thirds are among the most frequently triggered graphics during cricket coverage. They provide immediate match context while preserving maximum visibility of on-field action.
 
-This [cricket scoreboard](https://store.wasp3d.com/cricket-score-lower-third-template.html) template showcases a modular score presentation workflow that can be adapted for: template showcases a modular score presentation workflow that can be adapted for several cricket events without any coding. Those could be:
+This [cricket scoreboard](https://store.wasp3d.com/cricket-score-lower-third-template.html?utm_source=Github&utm_medium=Cricket+scoreboard) template showcases a modular score presentation workflow that can be adapted for: template showcases a modular score presentation workflow that can be adapted for several cricket events without any coding. Those could be:
 
 * International cricket broadcasts
 * Domestic leagues
@@ -19,7 +19,7 @@ This [cricket scoreboard](https://store.wasp3d.com/cricket-score-lower-third-tem
 * School and university competitions
 * OTT sports productions
 
-It also comes with complete [cricket livestream package](https://store.wasp3d.com/cricket-overlay-graphics-package.html)
+It also comes with complete [cricket livestream package](https://store.wasp3d.com/cricket-score-lower-third-template.html?utm_source=Github&utm_medium=Cricket+scoreboard)
 
 ---
 
