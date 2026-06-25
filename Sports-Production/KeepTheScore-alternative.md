@@ -55,8 +55,6 @@ Update scores instantly during:
 - Online competitions
 
 Keep your audience updated with a smooth live scoreboard workflow.
-<img width="1150" height="650" alt="Tennis_Livestream_Scoreboard" src="https://github.com/user-attachments/assets/e554e622-0075-4ccf-b19f-dde5f6a5a5e5" />
-<img width="1150" height="650" alt="Tennis_Livestream_Scoreboard" src="https://github.com/user-attachments/assets/8faa25b9-4225-4511-824e-d1b88fb972af" />
 <img width="1150" height="650" alt="Basketball_Scoreboard" src="https://github.com/user-attachments/assets/541720e4-7b16-4ae2-bd10-372ef4b52fd5" />
 
 ---
