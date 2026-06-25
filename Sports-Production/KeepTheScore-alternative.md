@@ -26,7 +26,8 @@ With Xpress, you get:
 - Dynamic scoreboard layouts
 - Engaging presentation for live audiences
 
-<img width="1150" height="650" alt="Cricket_Scorecard_Lower_Third" src="https://github.com/user-attachments/assets/2f1b01d8-c4ab-4207-b65f-c34a5bdbb93d" />
+<img width="1150" height="650" alt="Football_Lower_Third" src="https://github.com/user-attachments/assets/03ac72e3-201c-4133-b24c-75e9dc3bd001" />
+
 
 
 Keep The Score does not offer a 3D scoreboard experience.
@@ -56,7 +57,7 @@ Keep your audience updated with a smooth live scoreboard workflow.
 
 ---
 
-## Xpress vs Keep The Score
+##**[Xpress](https://store.wasp3d.com/xpress?utm_source=Github&utm_medium=Keepthescorealternative)** vs Keep The Score
 
 | Feature | Xpress | Keep The Score |
 |---|---|---|
@@ -69,7 +70,7 @@ Keep your audience updated with a smooth live scoreboard workflow.
 
 ---
 
-## Build Better Live Scoreboards with Xpress
+## Build Better Live Scoreboards with **[Xpress](https://store.wasp3d.com/xpress?utm_source=Github&utm_medium=Keepthescorealternative)**
 
 Xpress gives creators, streamers, and tournament organizers the ability to create professional-looking scoreboards without paying for essential features.
 
