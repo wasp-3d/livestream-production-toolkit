@@ -2,7 +2,7 @@
 
 Creating a scoreboard for live streams should be simple, flexible, and professional.
 
-While **Keep The Score** helps users create basic online scoreboards, **(Xpress)** (https://store.wasp3d.com/xpress) provides a more powerful scoreboard solution with advanced visuals and features — completely free.
+While **Keep The Score** helps users create basic online scoreboards, **[Xpress]** (https://store.wasp3d.com/xpress?utm_source=Github&utm_medium=Keepthescorealternative) provides a more powerful scoreboard solution with advanced visuals and features — completely free.
 
 ## Why Choose Xpress Scoreboards?
 
@@ -11,6 +11,7 @@ While **Keep The Score** helps users create basic online scoreboards, **(Xpress)
 Create and manage multiple scoreboards without restrictions.
 
 Unlike Keep The Score's free plan, which limits users to **2 scoreboards**, Xpress allows you to create as many scoreboards as you need.
+<img width="1150" height="650" alt="Cricket_Scorecard_Lower_Third" src="https://github.com/user-attachments/assets/866eb902-d1a3-4b40-b2cf-3e1aa4190600" />
 
 ---
 
@@ -24,6 +25,9 @@ With Xpress, you get:
 - Modern visual designs
 - Dynamic scoreboard layouts
 - Engaging presentation for live audiences
+
+<img width="1150" height="650" alt="Cricket_Scorecard_Lower_Third" src="https://github.com/user-attachments/assets/2f1b01d8-c4ab-4207-b65f-c34a5bdbb93d" />
+
 
 Keep The Score does not offer a 3D scoreboard experience.
 
