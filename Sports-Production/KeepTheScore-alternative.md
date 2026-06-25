@@ -1,5 +1,3 @@
-<img width="1150" height="650" alt="Basketball_Scoreboard" src="https://github.com/user-attachments/assets/1739123f-6288-499d-8b54-ebd019c3732d" />
-<img width="1150" height="650" alt="Basketball_Scoreboard" src="https://github.com/user-attachments/assets/b13e4e8d-0712-48b4-8923-62bcbaf76083" />
 # Xpress — A Free Alternative to Keep The Score for Live Scoreboards
 
 Creating a scoreboard for live streams should be simple, flexible, and professional.
