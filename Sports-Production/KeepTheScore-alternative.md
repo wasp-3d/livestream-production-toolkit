@@ -2,7 +2,7 @@
 
 Creating a scoreboard for live streams should be simple, flexible, and professional.
 
-While **Keep The Score** helps users create basic online scoreboards, **[Xpress]** (https://store.wasp3d.com/xpress?utm_source=Github&utm_medium=Keepthescorealternative) provides a more powerful scoreboard solution with advanced visuals and features — completely free.
+While **Keep The Score** helps users create basic online scoreboards, **[Xpress](https://store.wasp3d.com/xpress?utm_source=Github&utm_medium=Keepthescorealternative)** provides a more powerful scoreboard solution with advanced visuals and features — completely free.
 
 ## Why Choose Xpress Scoreboards?
 
